@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseScript.cs">
+    <Files>
+      <File FileName="Assets\RaycastSphereController\RaycastSphereController.cs" Line="24" Column="51" />
+      <File FileName="..\week08\Assets\Scripts\InstantiateDemo.cs" Line="36" Column="4" />
+      <File FileName="..\week08\Assets\Scripts\TenPrint.cs" Line="20" Column="6" />
+      <File FileName="..\midterm_repository\Assets\Scripts\SetParentController.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\MovementScript.cs" Line="25" Column="3" />
+      <File FileName="Assets\Scripts\MouseScript.cs" Line="18" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
